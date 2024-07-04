@@ -1,91 +1,91 @@
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;filter: grayscale(50%)" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;filter: grayscale(50%)" />
 
-<h1 align="center">Maria Eduarda N. Correia</h1>
-<h2 align="center">Olá! Seja bem vindo ao meu perfil 😄</h2>
-<h3 align="center">...</h3>
-<p align="center">...</p>
+<h2 align="center">
+  Olá! Seja bem vindo ao meu
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50" />
+</h2>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-<h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maria-eduarda-neves-correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/mariaeduarda.nc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariaeduarda.nc" height="30" width="40" /></a>
+  Eu me chamo Maria Eduarda, mas pode me chamar de Duda.
+  Sou desenvolvedora de software fullstack, bacharel em sistemas de informação e tenho experiência na área de tecnologia desde 2019. Aqui no meu github tenho apenas alguns dos projetos realizados na faculdade e em cursos que fiz ao longo da minha jornada além de algumas das minhas contribuições profissionais. Sinta-se a vontade para dar sugestões ou entrar em contato para conversarmos sobre algum tópico.
 </p>
-<br>
+
+<h3 align="left">Contato:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/maria-eduarda-neves-correia" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Maria Eduarda Neves Correia" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/maria.eduardanc" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram maria.eduardanc" height="30" width="40" />
+  </a>
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3>Linguagens e Ferramentas:</h3>
 
-- Backend
+<p>Aqui estão listadas algumas das linguagens e ferramentas com as quais já trabalhei e/ou já apliquei em algum projeto.</p>
+
+<h4>Principais Linguagens:</h4>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,php,laravel,py,django,nestjs" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py" />
   </a>
 </p>
 
-- Frontend
+<h4>Backend:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vue,nest,bootstrap,tailwind,vuetify" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,php,laravel,django,nestjs" />
   </a>
 </p>
 
-- Database
+<h4>Frontend:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,pinia,html,css,less,sass,bootstrap,tailwind&perline=6" />
   </a>
 </p>
 
-- Cloud Servers
+<h4>Testes</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,jest" />
+  </a>
+</p>
+
+<h4>Banco de Dados</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+  </a>
+</p>
+
+<h4>Servidores</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
   </a>
 </p>
 
-- Tools
+<h4>Ferramentas</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,apple,linux,windows,docker,elasticsearch,vscode,postman,npm,yarn,latex,notion,figma,discord&perline=6" />
   </a>
 </p>
 
-<br/>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Status:</h3>
-<div align="center">
- 
- <!-- Não está buscando contribuições privadas -->
+<h3>GitHub Status:</h3>
+
+<img src="https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&card_width=350&hide_current_streak=true&hide_longest_streak=true" />
+
+<!-- Não está buscando contribuições privadas 🥲 -->
 <!-- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaaenc&theme=calm) -->
-
-[![GitHub Streak PR-BR](https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&card_width=350&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR)](https://git.io/streak-stats) -->
-
-</div>
