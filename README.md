@@ -1,5 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;" />
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;" />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
 
 <h1 align="center">
   Olá! Seja bem vindo ao meu
@@ -13,7 +13,7 @@
 <h2>Contato:</h2>
 <div>
   <a href="https://linkedin.com/in/maria-eduarda-neves-correia">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/maria.eduardanc">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" title="Instagram" height="30" width="30" />
@@ -76,5 +76,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divisor animado">
 
 <h2>GitHub Status:</h2>
-<img src="https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak Status" title="GitHub Streak Status" />
-<img src="./PrivateContribution.png" style="max-height: 220px; display:block; margin-top:10px;" />
+<img src="https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak Status" title="GitHub Streak Status" width="450px" />
+<img src="./PrivateContribution.png" width="450px" />
