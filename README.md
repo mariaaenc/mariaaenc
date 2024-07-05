@@ -5,7 +5,7 @@
 
 <h1 align="center">
   Olá! Seja bem vindo ao meu
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" title="github" width="50" height="50" />
 </h1>
 
 <p align="left">
@@ -15,14 +15,14 @@
 
 <h2 align="left">Contato:</h2>
 
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/maria-eduarda-neves-correia">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Maria Eduarda Neves Correia" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Maria Eduarda Neves Correia" title="Linkedin Maria Eduarda Neves Correia" height="30" width="40" />
   </a>
   <a href="https://instagram.com/maria.eduardanc">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram maria.eduardanc" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram maria.eduardanc" title="Instagram maria.eduardanc" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -32,59 +32,73 @@
 
 <h3>Principais Linguagens:</h3>
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py&perline=6" title="Typescript, Javascript, Python" />
   </a>
-</p>
+</div>
 
 <h3>Backend:</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,php,laravel,django,nestjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,php,laravel,django,nestjs&perline=6" title="ExpressJS, NodeJS, PHP, Laravel, Django, NestJS" />
   </a>
-</p>
+</div>
 
 <h3>Frontend:</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,pinia,html,css,less,sass,bootstrap,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,pinia,html,css,less,sass,bootstrap,tailwind&perline=6" title="VueJS, Vuetify, NuxtJS, Pinia, HTML, CSS, Less, Sass, Bootstrap, Tailwind" />
   </a>
-</p>
+</div>
 
 <h3>Testes</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,jest&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cypress,jest&perline=6" title="Cypress, Jest, Supertest, VTL" />
   </a>
-</p>
+</div>
 
 <h3>Banco de Dados</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=6" title="MongoDB, MySQL,PostgreSQL, SQLite, Firestore" />
   </a>
-</p>
+</div>
 
 <h3>Servidores</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&perline=6" title="AWS, Google Cloud Plataform, Firebase" />
   </a>
-</p>
+</div>
 
 <h3>Ferramentas</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,apple,linux,windows,docker,elasticsearch,vscode,postman,npm,yarn,latex,notion,figma,discord&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,apple,linux,windows,docker,elasticsearch,vscode,postman,npm,yarn,latex,notion,figma,discord&perline=6" title="Git, Github, Gitlab, Bitbucket, Github Actions, Apple macos, Linux, Windows, Docker, ElasticSearch, vscode, Postman, npm, yarn, Latex, Notion, Figma, Discord, Insomnia" />
   </a>
-</p>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2>GitHub Status:</h2>
 
 <img src="https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&card_width=350&hide_current_streak=true&hide_longest_streak=true" />
+
+<div style="border: 1px solid grey; padding: 15px; margin-top: 15px; background-color:#373F51; border-radius: 5px; max-width: 320px; height: 185px; text-align: center; display: flex; flex-direction: column; justify-content: center">
+  <strong style="color: #E07A5F; font-size: 28px;">
+    +975
+  </strong>
+
+  <p style="color: #E07A5F; font-size: 14px;">
+    Pull Requests para Contribuições Privadas
+  </p>
+
+  <p style="color: #EBCFB2; font-size: 12px;">
+    2 de nov. de 2020 - Presente
+  </p>
+</div>
 
 <!-- Não está buscando contribuições privadas 🥲 -->
 <!-- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaaenc&theme=calm) -->
