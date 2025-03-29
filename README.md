@@ -27,7 +27,7 @@
 <h3>Principais Linguagens:</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py&perline=6" title="Typescript, Javascript, Python" />
+    <img src="https://skillicons.dev/icons?i=ts,js&perline=6" title="Typescript, Javascript" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 <h3>Frontend:</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,pinia,html,css,less,sass,bootstrap,tailwind&perline=6" title="VueJS, Vuetify, NuxtJS, Pinia, HTML, CSS, Less, Sass, Bootstrap, Tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,vue,vuetify,nuxtjs,pinia,html,css,less,sass,bootstrap,tailwind&perline=6" title="ReactsJS, VueJS, Vuetify, NuxtJS, Pinia, HTML, CSS, Less, Sass, Bootstrap, Tailwind" />
   </a>
 </div>
 
@@ -77,4 +77,4 @@
 
 <h2>GitHub Status:</h2>
 <img src="https://streak-stats.demolab.com?user=mariaaenc&theme=calm&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak Status" title="GitHub Streak Status" width="450px" />
-<img src="./PrivateContribution.png" width="450px" />
+<img src="./PrivateContribution.png" width="450px" style="border: 1px solid grey; border-radius: 5px; background-color:#373F51;" />
